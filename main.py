@@ -1,5 +1,5 @@
 import random
-from pokemon import (
+from src.pokemon import (
     Fire,
     Water,
     Grass,
